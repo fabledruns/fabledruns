@@ -1,10 +1,6 @@
-## Jehoshua
+## FabledRuns
 
-Student developer with a strong interest in building real, functional software. I focus on clean architecture, performance, and learning by shipping.
-
-### Focus Areas
-- Full-stack web development  
-- AI tooling and workflow automation  
+A Web Developer who does anything except Web Development. 
 
 ### Current Work
 - Developer @ Scythe Client
@@ -16,6 +12,5 @@ Student developer with a strong interest in building real, functional software. 
 - n8n, basic DevOps tooling  
 
 ### Links
-- Portfolio: https://jehoshua.netlify.app  
-- GitHub: https://github.com/JehoshuaM
-- Instagram: https://instagram.com/jehoshua.m/
+- GitHub: https://github.com/fabledruns
+- Discord: https://discord.com/users/938728668820295710
