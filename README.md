@@ -4,6 +4,7 @@ A Web Developer who does anything except Web Development.
 
 ### Current Work
 - Developer @ Scythe Client
+- Developer @ XylonFFA
 
 ### Tech Stack
 - JavaScript / TypeScript (Next.js, React)  
