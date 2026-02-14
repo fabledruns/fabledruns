@@ -3,8 +3,8 @@
 A Web Developer who does anything except Web Development. 
 
 ### Current Work
-- Full Stack Developer @ Scythe Client
 - SWE @ XylonFFA
+- Founder & Developer @ Amethyst
 
 ### Tech Stack
 - Next.js, React (Web Development)
