@@ -15,6 +15,7 @@ SWE @ Xylon Network
 ![React](https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&variant=branded&size=sm)
 ![Next.js](https://www.shieldcn.dev/badge/-Next.js-000000.svg?logo=nextdotjs&variant=branded&size=sm)
 ![Tailwind CSS](https://www.shieldcn.dev/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&variant=branded&size=sm)
+![Go](https://www.shieldcn.dev/badge/-Go-00ADD8.svg?logo=go&variant=branded&size=sm)
 ![Vite](https://www.shieldcn.dev/badge/-Vite-646CFF.svg?logo=vite&variant=branded&size=sm)
 ![GSAP](https://www.shieldcn.dev/badge/-GSAP-88CE02.svg?logo=greensock&variant=branded&size=sm)
 ![Electron](https://www.shieldcn.dev/badge/-Electron-47848F.svg?logo=electron&variant=branded&size=sm)
