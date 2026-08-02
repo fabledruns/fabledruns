@@ -1,42 +1,142 @@
-<div align="center">
+<div align="left">
 
-# FabledRuns
+```text
+███████╗ █████╗ ██████╗ ██╗     ███████╗██████╗ ██████╗ ██╗   ██╗███╗   ██╗███████╗
+██╔════╝██╔══██╗██╔══██╗██║     ██╔════╝██╔══██╗██╔══██╗██║   ██║████╗  ██║██╔════╝
+█████╗  ███████║██████╔╝██║     █████╗  ██║  ██║██████╔╝██║   ██║██╔██╗ ██║███████╗
+██╔══╝  ██╔══██║██╔══██╗██║     ██╔══╝  ██║  ██║██╔══██╗██║   ██║██║╚██╗██║╚════██║
+██║     ██║  ██║██████╔╝███████╗███████╗██████╔╝██║  ██║╚██████╔╝██║ ╚████║███████║
+╚═╝     ╚═╝  ╚═╝╚═════╝ ╚══════╝╚══════╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝
+```
 
-SWE @ Xylon Network
-
-[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40fabledruns-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/fabledruns)
-
-[![GitHub Followers](https://www.shieldcn.dev/github/followers/fabledruns.svg?variant=secondary&size=sm)](https://github.com/fabledruns?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/fabledruns.svg?variant=secondary&size=sm)](https://github.com/fabledruns?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-18-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/fabledruns?tab=repositories)
+![Followers](https://www.shieldcn.dev/github/followers/fabledruns.svg?style=flat&variant=secondary&corner=0)
+![Stars](https://www.shieldcn.dev/github/user-stars/fabledruns.svg?style=flat&variant=secondary&corner=0)
+![Repositories](https://www.shieldcn.dev/badge/Repositories-18-2b2b2b.svg?style=flat&corner=0)
+![Open Source](https://www.shieldcn.dev/badge/Open%20Source-Yes-2b2b2b.svg?style=flat&corner=0)
 
 </div>
 
-## Skills & Technologies
+---
 
-![React](https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&variant=branded&size=sm)
-![Next.js](https://www.shieldcn.dev/badge/-Next.js-000000.svg?logo=nextdotjs&variant=branded&size=sm)
-![Tailwind CSS](https://www.shieldcn.dev/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&variant=branded&size=sm)
-![Go](https://www.shieldcn.dev/badge/-Go-00ADD8.svg?logo=go&variant=branded&size=sm)
-![Vite](https://www.shieldcn.dev/badge/-Vite-646CFF.svg?logo=vite&variant=branded&size=sm)
-![GSAP](https://www.shieldcn.dev/badge/-GSAP-88CE02.svg?logo=greensock&variant=branded&size=sm)
-![Electron](https://www.shieldcn.dev/badge/-Electron-47848F.svg?logo=electron&variant=branded&size=sm)
-![Radix UI](https://www.shieldcn.dev/badge/-Radix_UI-000000.svg?logo=radixui&variant=branded&size=sm)
-![Node.js](https://www.shieldcn.dev/badge/-Node.js-339933.svg?logo=nodedotjs&variant=branded&size=sm)
-![Express](https://www.shieldcn.dev/badge/-Express-000000.svg?logo=express&variant=branded&size=sm)
-![PostgreSQL](https://www.shieldcn.dev/badge/-PostgreSQL-4169E1.svg?logo=postgresql&variant=branded&size=sm)
-![MongoDB](https://www.shieldcn.dev/badge/-MongoDB-47A248.svg?logo=mongodb&variant=branded&size=sm)
-![JavaScript](https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&variant=branded&size=sm)
-![Java](https://www.shieldcn.dev/badge/-Java-ED8B00.svg?logo=openjdk&variant=branded&size=sm)
-![C](https://www.shieldcn.dev/badge/-C-A8B9CC.svg?logo=c&variant=branded&size=sm)
-![C++](https://www.shieldcn.dev/badge/-C++-00599C.svg?logo=cplusplus&variant=branded&size=sm)
-![Docker](https://www.shieldcn.dev/badge/-Docker-2496ED.svg?logo=docker&variant=branded&size=sm)
-![Linux](https://www.shieldcn.dev/badge/-Linux-FCC624.svg?logo=linux&variant=branded&size=sm)
-![Cloudflare](https://www.shieldcn.dev/badge/-Cloudflare-F38020.svg?logo=cloudflare&variant=branded&size=sm)
-![Caddy](https://www.shieldcn.dev/badge/-Caddy-1F88C0.svg?logo=caddy&variant=branded&size=sm)
-![GitHub Actions](https://www.shieldcn.dev/badge/-GitHub_Actions-2088FF.svg?logo=githubactions&variant=branded&size=sm)
-![CI/CD](https://www.shieldcn.dev/badge/-CI%2FCD-6B7280.svg?variant=branded&size=sm)
-![VPS](https://www.shieldcn.dev/badge/-VPS-111827.svg?variant=branded&size=sm)
-![Git](https://www.shieldcn.dev/badge/-Git-F05032.svg?logo=git&variant=branded&size=sm)
-![ESLint](https://www.shieldcn.dev/badge/-ESLint-4B32C3.svg?logo=eslint&variant=branded&size=sm)
-![Gradle](https://www.shieldcn.dev/badge/-Gradle-02303A.svg?logo=gradle&variant=branded&size=sm)
+## OVERVIEW
+
+```text
+Occupation     Software Engineer @ Xylon Network
+Current Work   Forcefield
+Category       AI Runtime / Developer Tools
+
+Focus
+├── Systems Programming
+├── Runtime Design
+├── AI Infrastructure
+├── Networking
+└── Open Source
+```
 
 ---
+
+## STACK
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
+![Pterodactyl](https://img.shields.io/badge/Pterodactyl-10539F?style=flat-square&logo=pterodactyl&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-8E75FF?style=flat-square&logo=googlegemini&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+![LM Studio](https://img.shields.io/badge/LM_Studio-111111?style=flat-square)
+![NVIDIA NIM](https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat-square&logo=nvidia&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
+
+---
+
+## PROJECTS
+
+```text
+forcefield/
+├── runtime
+├── providers
+├── tool calling
+├── memory
+├── sessions
+├── terminal ui
+└── cli
+
+xylon/
+├── backend
+├── infrastructure
+├── search
+└── api
+
+lab/
+├── neural network
+├── voxel engine
+└── experiments
+```
+
+---
+
+## CURRENT
+
+```text
+[✓] Building Forcefield
+[✓] Writing Go
+[✓] Shipping Open Source
+[ ] Touching Grass
+```
+
+---
+
+## NOW PLAYING
+
+```text
+Building software that feels native.
+
+Local-first AI.
+Fast CLIs.
+Terminal interfaces.
+Developer tooling.
+```
+
+---
+
+<div align="center">
+
+```
+"Programs must be written for people to read,
+and only incidentally for machines to execute."
+```
+
+</div>
