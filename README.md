@@ -16,8 +16,6 @@
 
 </div>
 
----
-
 ## OVERVIEW
 
 ```text
@@ -25,8 +23,6 @@ Occupation   Software Engineer @ Xylon Network
 Building     Forcefield
 Focus        Systems Programming • AI Runtime • Networking • Open Source
 ```
-
----
 
 ## STACK
 
@@ -73,8 +69,6 @@ Focus        Systems Programming • AI Runtime • Networking • Open Source
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
 
----
-
 ## PROJECTS
 
 ```text
@@ -82,5 +76,3 @@ Forcefield  AI runtime • Tool Calling • Memory • Sessions • TUI • CLI
 Xylon       Backend • Infrastructure • Search • API
 Lab         Neural Network • Voxel Engine • Experiments
 ```
-
----
