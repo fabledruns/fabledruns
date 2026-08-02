@@ -21,16 +21,9 @@
 ## OVERVIEW
 
 ```text
-Occupation     Software Engineer @ Xylon Network
-Current Work   Forcefield
-Category       AI Runtime / Developer Tools
-
-Focus
-├── Systems Programming
-├── Runtime Design
-├── AI Infrastructure
-├── Networking
-└── Open Source
+Occupation   Software Engineer @ Xylon Network
+Building     Forcefield
+Focus        Systems Programming • AI Runtime • Networking • Open Source
 ```
 
 ---
@@ -85,25 +78,9 @@ Focus
 ## PROJECTS
 
 ```text
-forcefield/
-├── runtime
-├── providers
-├── tool calling
-├── memory
-├── sessions
-├── terminal ui
-└── cli
-
-xylon/
-├── backend
-├── infrastructure
-├── search
-└── api
-
-lab/
-├── neural network
-├── voxel engine
-└── experiments
+Forcefield  AI runtime • Tool Calling • Memory • Sessions • TUI • CLI
+Xylon       Backend • Infrastructure • Search • API
+Lab         Neural Network • Voxel Engine • Experiments
 ```
 
 ---
