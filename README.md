@@ -19,7 +19,7 @@
 ## OVERVIEW
 
 ```text
-Occupation   Software Engineer @ Stealth
+Occupation   Open Source Contributor @ Google, CNCF
 Building     Forcefield
 Focus        Systems Programming, AI, Backends, Open Source
 ```
